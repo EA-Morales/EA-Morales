@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agustin Morales 
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Html, css and JS
+- 🌱 I’m currently learning Angular and Spring boot.
 - 💞️ I’m looking to collaborate on save the world 
 - 📫 How to reach me looking to the moon
 

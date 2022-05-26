@@ -1,7 +1,7 @@
 # Hi there! 👋, I’m Agustin
 
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Angular and Spring boot.
+- 🌱 I’m currently learning Angular, React.
 - 💞️ I’m looking to collaborate on save the world 
 - 📫 How to reach me?......looking to the moon 
 
@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">  
-    <img src="https://skillicons.dev/icons?i=spring,java,mongodb,mysql,github,heroku,netlify,ps,vscode" />  
+    <img src="https://skillicons.dev/icons?i=spring,java,mongodb,mysql" />  
 </p>
 
 <p align="left">  
@@ -39,5 +39,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">  
-    <img src="https://skillicons.dev/icons?i=docker,figma,firebase,git,github,heroku,netlify,ps,vscode" />  
+    <img src="https://skillicons.dev/icons?i=docker,figma,firebase,git,github,heroku,netlify,ps,vscode,idea" />  
 </p>
+
+[![Spotify](https://spotify-profile-q28j0mgp9-ea-morales.vercel.app)](https://open.spotify.com/user/USER_NAME)

@@ -42,4 +42,4 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=docker,figma,firebase,git,github,heroku,netlify,ps,vscode,idea" />  
 </p>
 
-[![Spotify](http://spotify-profile-9lulrc1t2-ea-morales.vercel.app/api/spotify-playing)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-profile-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)

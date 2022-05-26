@@ -23,13 +23,21 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">  
-    <img src="https://skillicons.dev/icons?i=angular,react" />  
+    <img src="https://skillicons.dev/icons?i=angular,react,vite,vue" />  
 </p>
 
-<h1 align="left">  
-    Frontend Frameworks  
-</h1>
+<p align="left">  
+    Backend  
+</p>
 
 <p align="left">  
-    <img src="https://skillicons.dev/icons?i=angular,react" />  
+    <img src="https://skillicons.dev/icons?i=spring,java,mongodb,mysql,github,heroku,netlify,ps,vscode" />  
+</p>
+
+<p align="left">  
+    Tools  
+</p>
+
+<p align="left">  
+    <img src="https://skillicons.dev/icons?i=docker,figma,firebase,git,github,heroku,netlify,ps,vscode" />  
 </p>

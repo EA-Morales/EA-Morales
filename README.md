@@ -10,10 +10,26 @@ l3on3l4/l3on3l4 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">  
+<p align="left">  
     Frontend Skills  
 </p>
 
-<p align="center">  
+<p align="left">  
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap" />  
+</p>
+
+<p align="left">  
+    Frontend Frameworks  
+</p>
+
+<p align="left">  
+    <img src="https://skillicons.dev/icons?i=angular,react" />  
+</p>
+
+<h1 align="left">  
+    Frontend Frameworks  
+</h1>
+
+<p align="left">  
+    <img src="https://skillicons.dev/icons?i=angular,react" />  
 </p>

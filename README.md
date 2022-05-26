@@ -1,5 +1,7 @@
 # Hello there! 👋, I’m [Agustin][website]
 
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin)
+
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning Angular, React.
 - 💞️ I’m looking to collaborate on save the world 
@@ -46,3 +48,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- LINKS -->
 [website]: https://portfolio-argentina-programa.web.app/
+[linkedin]: https://www.linkedin.com/in/eduardo-agustin-morales/

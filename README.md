@@ -60,15 +60,9 @@
 ## Github Stats  
 
 
-<table><tr><td valign="top" width="50%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ea-morales&show_icons=true&locale=en&layout=compact" alt="ea-morales" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EA-Morales&hide_border=true&layout=compact" align="center" />
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=EA-Morales&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
-
-</td></tr></table>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ea-morales&show_icons=true&locale=en" alt="ea-morales" /></p>
 
 <br>
 <br>

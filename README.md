@@ -5,7 +5,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning React   
+- 🌱 I’m currently learning and focusing on JS (advanced) is the most beatiful language!
   
 
 - ❓ Ask me about anything  
@@ -19,26 +19,16 @@
 
 ## My Skill Set  
 <div align="center">
-<table><tr><td valign="top" width="50%" align="center">
+
 
 
 
 ### Frontend  
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,react,angular" />
 </div>
 
-</td><td valign="top" width="50%">
 
-
-
-### Backend  
-<div align="center">  
-<img src="https://skillicons.dev/icons?i=spring,java,mongodb,mysql" />  
-</div>
-
-</td></tr></table>  
-</div>
 
 <br/>  
 

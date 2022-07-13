@@ -57,6 +57,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
+## My musical taste 🕺🏻
 
 
 [![Spotify](https://spotify-profile-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)

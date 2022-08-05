@@ -71,14 +71,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-
-
 ## My musical taste 🕺🏻
 
 

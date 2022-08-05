@@ -1,7 +1,7 @@
 # Hello there! 👋  
   
 
-### <div align="center">I'm Agustin, a full-time frontend freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Agustin, Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers.</div>  
 <br>
 <br>
 

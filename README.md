@@ -1,11 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />  I'm agustin! 💜
 
-![Javascript](https://img.shields.io/static/v1?label=&message=javascript&color=yellow&logo=JavaScript&logoColor=white)
-![Typesript](https://img.shields.io/static/v1?label=&message=Typescript&color=blue&logo=TypeScript&logoColor=white)
-
-
-
-### Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers. 
+Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers. 
 
 <br>
 <br>
@@ -26,6 +21,9 @@
 <br>
 <br>
 <br>
+
+![Javascript](https://img.shields.io/static/v1?label=&message=javascript&color=yellow&logo=JavaScript&logoColor=white)
+![Typesript](https://img.shields.io/static/v1?label=&message=Typescript&color=blue&logo=TypeScript&logoColor=white)
 
 ## My Skill Set
 ---

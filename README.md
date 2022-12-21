@@ -32,7 +32,6 @@ Frontend student looking for opportunities to work in web development, which all
 
 
 ## My Skill Set
----
 
 <br>
 

@@ -22,6 +22,7 @@ Frontend student looking for opportunities to work in web development, which all
 - ⚡ I love coffe ☕ and gaming 🎮
 
 <br>
+<br>
 
 💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜
 
@@ -31,12 +32,13 @@ Frontend student looking for opportunities to work in web development, which all
 
 <br>
 
-💜<u>**Main stack**</u>:
- 
+💜 <u>**Main stack**</u>:
+
   ![Vite](https://img.shields.io/static/v1?label=tool&labelColor=52bdff&message=Vite&color=B143f3&logo=Vite&logoColor=yellow) ![React](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=React&color=61dafb&logo=React&logoColor=61dafb) ![Typesript](https://img.shields.io/static/v1?label=Language&message=Typescript&color=blue&logo=TypeScript&logoColor=white) ![TailwindCss](https://img.shields.io/static/v1?label=framework&message=Tailwind%20Css&color=0ea5e9&logo=TailwindCSS&logoColor=0ea5e9) ![Eslint](https://img.shields.io/static/v1?label=tool&message=Eslint&color=341bab&logo=Eslint&logoColor=341bab) ![Prettier](https://img.shields.io/static/v1?label=tool&labelColor=f8bc45&message=Prettier&color=c596c7&logo=Prettier&logoColor=black)
 
-- ### <u>Libraries:</u>
-  ![React Router](https://img.shields.io/static/v1?label=library&labelColor=52bdff&message=React%20Router&color=B143f3&logo=ReactRouter&logoColor=yellow)
+💜  <u>**Libraries:**</u>
+
+  ![React Router](https://img.shields.io/static/v1?label=library&labelColor=52bdff&message=React%20Router&color=B143f3&logo=ReactRouter&logoColor=yellow) ![React Query](https://img.shields.io/static/v1?label=library&labelColor=52bdff&message=React%20Query&color=B143f3&logo=ReactQuery&logoColor=yellow)
 
 
 

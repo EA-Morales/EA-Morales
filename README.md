@@ -1,8 +1,12 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />  I'm agustin!💜
+# Hello there! <img src="../EA-Morales/assets/wave.gif" width="30px" height="30px" />  I'm agustin!💜
 
 Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers. 
 
 <br>
+<br>
+
+💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜
+
 <br>
 
 <img align="right" alt="GIF" src="./assets/mario.gif" width="280px" />
@@ -15,34 +19,29 @@ Frontend student looking for opportunities to work in web development, which all
 - ❓ Ask me about anything  
 
 
-- ⚡ I love coffe ☕  
+- ⚡ I love coffe ☕ and gaming 🎮
+
+<br>
+
+💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜
 
 <br>
 <br>
 <br>
 <br>
 
-![Javascript](https://img.shields.io/static/v1?label=&message=javascript&color=yellow&logo=JavaScript&logoColor=white)
-![Typesript](https://img.shields.io/static/v1?label=&message=Typescript&color=blue&logo=TypeScript&logoColor=white)
 
 ## My Skill Set
 ---
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<br>
 
+💜<u>**Main stack**</u>:
+ 
+  ![Vite](https://img.shields.io/static/v1?label=tool&labelColor=52bdff&message=Vite&color=B143f3&logo=Vite&logoColor=yellow) ![React](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=React&color=61dafb&logo=React&logoColor=61dafb) ![Typesript](https://img.shields.io/static/v1?label=Language&message=Typescript&color=blue&logo=TypeScript&logoColor=white) ![TailwindCss](https://img.shields.io/static/v1?label=framework&message=Tailwind%20Css&color=0ea5e9&logo=TailwindCSS&logoColor=0ea5e9) ![Eslint](https://img.shields.io/static/v1?label=tool&message=Eslint&color=341bab&logo=Eslint&logoColor=341bab) ![Prettier](https://img.shields.io/static/v1?label=tool&labelColor=f8bc45&message=Prettier&color=c596c7&logo=Prettier&logoColor=black)
 
-
-
+- ### <u>Libraries:</u>
+  ![React Router](https://img.shields.io/static/v1?label=library&labelColor=52bdff&message=React%20Router&color=B143f3&logo=ReactRouter&logoColor=yellow)
 
 
 

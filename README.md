@@ -1,4 +1,4 @@
-# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />  I'm<p style='color: red; font-weight: bold'>agustin!</p>💜
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />  I'm <span style='color: red; font-weight: bold'>agustin!</span>💜
 
 Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers. 
 

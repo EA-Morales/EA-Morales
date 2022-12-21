@@ -1,4 +1,4 @@
-# Hello there! <img src="../EA-Morales/assets/wave.gif" width="30px" height="30px" />  I'm agustin!💜
+# Hello there! <img src="./assets/wave.gif" width="30px" height="30px" />  I'm agustin!💜
 
 Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers. 
 

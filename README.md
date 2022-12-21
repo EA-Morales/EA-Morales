@@ -26,10 +26,6 @@ Frontend student looking for opportunities to work in web development, which all
 💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜
 
 <br>
-<br>
-<br>
-<br>
-
 
 ## My Skill Set
 

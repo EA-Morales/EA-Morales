@@ -1,32 +1,54 @@
-# Hello there! 👋  
-  
+# Hello there! 👋  I'm agustin! 💖
 
-### <div align="center">I'm Agustin, Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers.</div>  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 <br>
 <br>
 
-- 🌱 I’m currently learning and focusing on JS (advanced) is the most beatiful language!
-  
+
+### Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers. 
+
+<br>
+<br>
+
+<img align="right" alt="GIF" src="./assets/profile.jpg" width="200px" />
+
+- 🤓 I’m currently learning and focusing on JS/TS (advanced)
+
+-  🌱 I’m currently working with [React](https://reactjs.org).
+
 
 - ❓ Ask me about anything  
-  
+
 
 - ⚡ I love coffe ☕  
-  
 
-<br/>  
+<br>
+<br>
+<br>
+<br>
+
+## My Skill Set
+---
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 
-## My Skill Set  
-<div align="center">
 
 
 
 
-### Frontend  
-<div align="center">  
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,react,angular" />
-</div>
 
 
 
@@ -52,17 +74,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ea-morales&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="ea-morales" /></p>
 
-<p>&nbsp;<img align="left" display="block" src="https://github-readme-stats.vercel.app/api?username=ea-morales&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="ea-morales" /></p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>

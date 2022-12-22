@@ -1,6 +1,16 @@
 # Hello there! <img src="./assets/wave.gif" width="30px" height="30px" />  I'm agustin!💜
 
-Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers. 
+Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers.
+
+<a href="mailto:eduardo.agustin.morales@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/EA-Morales" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/eduardo-agustin-morales" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 
 <br>
 <br>
@@ -43,21 +53,6 @@ Frontend student looking for opportunities to work in web development, which all
 💜  **<u>Other technologies:</u>**
 
 ![Angular](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=Angular&color=886ce4&logo=Angular&logoColor=61dafb) ![Java](https://img.shields.io/static/v1?label=language&labelColor=282c34&message=Java&color=886ce4&logoColor=61dafb) ![Spring](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=Spring&color=886ce4&logo=Spring&logoColor=61dafb) ![My sql](https://img.shields.io/static/v1?label=database&labelColor=282c34&message=Mysql&color=886ce4&logo=Mysql&logoColor=61dafb) ![Mongo db](https://img.shields.io/static/v1?label=database&labelColor=282c34&message=Mongo%20db&color=886ce4&logo=Mongodb&logoColor=61dafb)
-
-<br/>
-
-## How to reach me? 
-
-<a href="mailto:eduardo.agustin.morales@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/EA-Morales" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/eduardo-agustin-morales" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
 
 <br/>
 

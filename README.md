@@ -10,7 +10,13 @@ Frontend student looking for opportunities to work in web development, which all
 </a>
 <a href="https://linkedin.com/in/eduardo-agustin-morales" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://discordapp.com/users/L3GOL4S#1616" target="_blank">
+<img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://agustinmorales-portfolio.vercel.app" target="_blank">
+<img src=https://img.shields.io/static/v1?label=&message=Portfolio&color=D14836&logo=opera&style=flat-square alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 <br>
 <br>

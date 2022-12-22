@@ -38,11 +38,11 @@ Frontend student looking for opportunities to work in web development, which all
 
 💜  <u>**Libraries:**</u>
 
-  ![React Router](https://img.shields.io/static/v1?label=library&labelColor=52bdff&message=React%20Router&color=B143f3&logo=ReactRouter&logoColor=yellow) ![React Query](https://img.shields.io/static/v1?label=library&labelColor=52bdff&message=React%20Query&color=B143f3&logo=ReactQuery&logoColor=yellow) ![Chakra UI](https://img.shields.io/static/v1?label=library&labelColor=282c34&message=Chakra%20UI&color=61dafb&logo=Chakraui&logoColor=61dafb) ![ReactiveX](https://img.shields.io/static/v1?label=library&labelColor=282c34&message=ReactiveX&color=61dafb&logo=ReactiveX&logoColor=61dafb)
+  ![React Router](https://img.shields.io/static/v1?label=library&labelColor=353940&message=React%20Router&color=886ce4&logo=ReactRouter&logoColor=61dafb) ![React Query](https://img.shields.io/static/v1?label=library&labelColor=353940&message=React%20Query&color=886ce4&logo=ReactQuery&logoColor=61dafb) ![Chakra UI](https://img.shields.io/static/v1?label=library&labelColor=353940&message=Chakra%20UI&color=886ce4&logo=Chakraui&logoColor=61dafb) ![ReactiveX](https://img.shields.io/static/v1?label=library&labelColor=353940&message=ReactiveX&color=886ce4&logo=ReactiveX&logoColor=61dafb)
 
 💜  <u>**Other technologies:**</u>
 
-![Angular](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=Angular&color=61dafb&logo=Angular&logoColor=61dafb) ![Java](https://img.shields.io/static/v1?label=language&labelColor=282c34&message=Java&color=61dafb&logoColor=61dafb) ![Spring](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=Spring&color=61dafb&logo=Spring&logoColor=61dafb) ![My sql](https://img.shields.io/static/v1?label=database&labelColor=282c34&message=Mysql&color=61dafb&logo=Mysql&logoColor=61dafb) ![Mongo db](https://img.shields.io/static/v1?label=database&labelColor=282c34&message=Mongo%20db&color=61dafb&logo=Mongodb&logoColor=47A248)
+![Angular](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=Angular&color=886ce4&logo=Angular&logoColor=61dafb) ![Java](https://img.shields.io/static/v1?label=language&labelColor=282c34&message=Java&color=886ce4&logoColor=61dafb) ![Spring](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=Spring&color=886ce4&logo=Spring&logoColor=61dafb) ![My sql](https://img.shields.io/static/v1?label=database&labelColor=282c34&message=Mysql&color=886ce4&logo=Mysql&logoColor=61dafb) ![Mongo db](https://img.shields.io/static/v1?label=database&labelColor=282c34&message=Mongo%20db&color=886ce4&logo=Mongodb&logoColor=61dafb)
 
 <br/>
 

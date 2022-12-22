@@ -34,7 +34,7 @@ Frontend student looking for opportunities to work in web development, which all
 
 💜 <u>**Main stack**</u>:
 
-  ![Vite](https://img.shields.io/static/v1?label=tool&labelColor=52bdff&message=Vite&color=B143f3&logo=Vite&logoColor=yellow) ![React](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=React&color=61dafb&logo=React&logoColor=61dafb) ![Typesript](https://img.shields.io/static/v1?label=Language&message=Typescript&color=blue&logo=TypeScript&logoColor=white) ![TailwindCss](https://img.shields.io/static/v1?label=library&message=Tailwind%20Css&color=0ea5e9&logo=TailwindCSS&logoColor=0ea5e9) ![Eslint](https://img.shields.io/static/v1?label=tool&message=Eslint&color=341bab&logo=Eslint&logoColor=341bab) ![Prettier](https://img.shields.io/static/v1?label=tool&labelColor=f8bc45&message=Prettier&color=c596c7&logo=Prettier&logoColor=black)
+  ![Vite](https://img.shields.io/static/v1?label=tool&labelColor=353940&message=Vite&color=886ce4&logo=Vite&logoColor=61dafb) ![React](https://img.shields.io/static/v1?label=framework&labelColor=353940&message=React&color=886ce4&logo=React&logoColor=61dafb) ![Typesript](https://img.shields.io/static/v1?label=Language&labelColor=353940&message=Typescript&color=886ce4&logo=TypeScript&logoColor=61dafb) ![TailwindCss](https://img.shields.io/static/v1?label=library&labelColor=353940&message=Tailwind%20Css&color=886ce4&logo=TailwindCSS&logoColor=61dafb) ![Eslint](https://img.shields.io/static/v1?label=tool&labelColor=353940&message=Eslint&color=886ce4&logo=Eslint&logoColor=61dafb) ![Prettier](https://img.shields.io/static/v1?label=tool&labelColor=353940&message=Prettier&color=886ce4&logo=Prettier&logoColor=61dafb)
 
 💜  <u>**Libraries:**</u>
 

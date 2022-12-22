@@ -70,7 +70,7 @@ Frontend student looking for opportunities to work in web development, which all
 
 ## My musical taste 🕺🏻
 
-[![Spotify](https://spotify-profile-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-profile-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/11100368620)
   
 <!-- LINKS -->
 [website]: https://portfolio-argentina-programa.web.app/

@@ -3,13 +3,13 @@
 Frontend student looking for opportunities to work in web development, which allow my intellectual growth and develop my technical knowledge, to grow together with the company and my coworkers.
 
 <a href="mailto:eduardo.agustin.morales@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/EA-Morales" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/eduardo-agustin-morales" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
 <br>

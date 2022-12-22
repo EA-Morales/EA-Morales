@@ -32,15 +32,15 @@ Frontend student looking for opportunities to work in web development, which all
 
 <br>
 
-💜 <u>**Main stack**</u>:
+💜 **<u>Main stack</u>**:
 
   ![Vite](https://img.shields.io/static/v1?label=tool&labelColor=353940&message=Vite&color=886ce4&logo=Vite&logoColor=61dafb) ![React](https://img.shields.io/static/v1?label=framework&labelColor=353940&message=React&color=886ce4&logo=React&logoColor=61dafb) ![Typesript](https://img.shields.io/static/v1?label=Language&labelColor=353940&message=Typescript&color=886ce4&logo=TypeScript&logoColor=61dafb) ![TailwindCss](https://img.shields.io/static/v1?label=library&labelColor=353940&message=Tailwind%20Css&color=886ce4&logo=TailwindCSS&logoColor=61dafb) ![Eslint](https://img.shields.io/static/v1?label=tool&labelColor=353940&message=Eslint&color=886ce4&logo=Eslint&logoColor=61dafb) ![Prettier](https://img.shields.io/static/v1?label=tool&labelColor=353940&message=Prettier&color=886ce4&logo=Prettier&logoColor=61dafb)
 
-💜  <u>**Libraries:**</u>
+💜  **<u>Libraries:</u>**
 
   ![React Router](https://img.shields.io/static/v1?label=library&labelColor=353940&message=React%20Router&color=886ce4&logo=ReactRouter&logoColor=61dafb) ![React Query](https://img.shields.io/static/v1?label=library&labelColor=353940&message=React%20Query&color=886ce4&logo=ReactQuery&logoColor=61dafb) ![Chakra UI](https://img.shields.io/static/v1?label=library&labelColor=353940&message=Chakra%20UI&color=886ce4&logo=Chakraui&logoColor=61dafb) ![ReactiveX](https://img.shields.io/static/v1?label=library&labelColor=353940&message=ReactiveX&color=886ce4&logo=ReactiveX&logoColor=61dafb)
 
-💜  <u>**Other technologies:**</u>
+💜  **<u>Other technologies:</u>**
 
 ![Angular](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=Angular&color=886ce4&logo=Angular&logoColor=61dafb) ![Java](https://img.shields.io/static/v1?label=language&labelColor=282c34&message=Java&color=886ce4&logoColor=61dafb) ![Spring](https://img.shields.io/static/v1?label=framework&labelColor=282c34&message=Spring&color=886ce4&logo=Spring&logoColor=61dafb) ![My sql](https://img.shields.io/static/v1?label=database&labelColor=282c34&message=Mysql&color=886ce4&logo=Mysql&logoColor=61dafb) ![Mongo db](https://img.shields.io/static/v1?label=database&labelColor=282c34&message=Mongo%20db&color=886ce4&logo=Mongodb&logoColor=61dafb)
 

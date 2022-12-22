@@ -64,23 +64,15 @@ Frontend student looking for opportunities to work in web development, which all
 
 ## Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ea-morales&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="ea-morales" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ea-morales&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="ea-morales" /></p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
 ## My musical taste 🕺🏻
 
-
 <br>
 <br>
-
 
 [![Spotify](https://spotify-profile-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
